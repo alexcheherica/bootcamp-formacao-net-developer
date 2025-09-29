@@ -1,14 +1,14 @@
-# Bootcamp Santander Code Girls 2025 - Minha Trajetória
+# Bootcamp Formação .NET Developer - Minha Trajetória
 
-> Aqui você vai acompanhar minha jornada no Bootcamp Santander Code Girls 2025.
+> Aqui você vai acompanhar minha jornada no Bootcamp Formação .NET Developer.
 
 ## 📌 Quem sou eu
-Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação e Desenvolvedora Fullstack Java em formação. Neste repositório, vou registrar tudo que aprendo: módulos, desafios, mentorias e certificados.
+Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação e Desenvolvedora Fullstack em formação. Neste repositório, vou registrar tudo que aprendo: módulos, desafios, mentorias e certificados.
 
 ## 🚀 Meus objetivos
-- Completar toda a trilha do bootcamp  
-- Ficar entre as 250 melhores no ranking  
-- Garantir meu certificado e voucher AWS  
+- Dominar os fundamentos de C# e .NET
+- Concluir toda a trilha do Bootcamp Formação .NET Developer (DIO)
+- Criar projetos práticos e documentados para portfólio   
 
 ## 📁 O que tem aqui
 - `/modules/` — cursos organizados por módulos  
@@ -19,10 +19,10 @@ Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação 
 Basta explorar as pastas `modules/`, `projects/` e `certificates/`! Cada projeto tem um README com as instruções para rodar e testar.
 
 ## 🔧 Ferramentas que uso
-- Git e GitHub  
-- Editor: VSCode  
-- Tecnologias: AWS (vou atualizar conforme avanço no bootcamp)  
-
+- Controle de versão: Git e GitHub
+- Editor: Visual Studio Code
+- Tecnologias em uso: .NET, C#
+- 
 ## 📬 Quer falar comigo?
 - LinkedIn: https://www.linkedin.com/in/alexcheherica  
 - DIO: https://www.dio.me/users/alexcheherica
@@ -34,7 +34,7 @@ descrição:
 
 | CURSOS | DESAFIOS DE PROJETOS | DESAFIOS DE CÓDIGO |
 |:----:       |:----------:     |:-----------:       |
-|41           |5                | 2                  |
+|39           |7                | 4                  |
 
 
 
@@ -42,64 +42,61 @@ descrição:
 
 |M	    |MÓDULOS 							  	                                        |CATEGORIA 	            |SUBMODULOS 		                                                     |DURAÇÃO (hrs)	|CHECK        |
 |:--    |:---- 								                                            |:----	                |:----  		                                                         |:----		    |:----:		  |
-|MO-1	|Introdução à AWS e Conceitos Básicos	                                        |	                    |			                                                             | 			    |   ✅        |
-|		|			 										                            |CURSO			        |Introdução ao Santander Code Girls 2025 - AWS Cloud Foundations         |1        	    |	✅		  |
-|		|			 										                            |CURSO			        |Introdução à AWS e ao Universo da Computação em Nuvem                   |1	   	        |	✅		  | 
-|		|													                            |CURSO			        |Fundamentos Essenciais da Infraestrutura AWS                            |1	    		|	✅	      |
-|		|													                            |CURSO			        |Configurando sua Conta AWS com Segurança e Eficiência                   |1			    |	✅		  |
-|		|												                            	|CURSO	                |Primeiros Passos com Acesso Seguro e Controle de Custos na AWS          |1		        |	✅		  |
-|		|													                            |MENTORIA		        |Live de Lançamento - Code Girls 2025                                    |1	    	    |	✅		  |
-|MO-2 | Computação na Nuvem com EC2  			                                        |	   	                |				                                                         | 			    |   ✅       |
-|		|													                            |CURSO			        |Entendendo as Instância EC2 e a Otimização de Recursos na AWS           |1	   		    |   ✅       |
-|		|											                                    |CURSO	                |Armazenamerento na Nuvem com amazon EBS e S3                            |1	            |	✅		  |
-|		|												                                |DESAFIO DE PROJETO	    |Gerenciando Instâncias EC2 na AWS  	                                 |1    		    |	✅	      |
-|MO-3 | Criando Recursos na AWS  				                                        |	                    |				                                                         |			    |	✅		  |
-| 	    |											  	                                |CURSO			        |Criando sua Primeira Instância Amazon EC2                               |1	            |   ✅        |
-| 	    |												                                |CURSO			        |Criando sua Primeiro Bucket no Amazon S3	   			                 |1			    |	✅		  |
-| 	    |												                                |CURSO		        	|Criando sua Primeira Função com Amazon Lambda	   	                     |1			    |	✅		  |
-| 	    |											                               	    |CURSO	                |Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional    |1             |	✅		  |
-|    	|												                                |DESAFIO DE CÓDIGO	    |Associando Conceitos de Recursos da AWS                                 |1	   		    |	✅		  |
-|MO-4 |	Redes na AWS							                                        |				        | 						                                                 |			   	|   ✅        |
-|	 	|												                             	|CURSO			        |Introdução à Amazon VPC				                                 |1    		    |   ✅        |
-|	 	|													                            |CURSO			        |Entendendo o que é uma Subnet na Amazon VPC			                 |1			    |	✅		  |
-|	 	|											                                    |CURSO	                |Introdução ao Security Group na AWS                                     |1	            |	✅		  |
-|	 	|											                                    |CURSO	                |Explorando os Fundamentos do Route 53 na AWS                            |1	            |	✅		  |
-|	 	|													                            |CURSO	                |Introdução à Distribuição de Conteúdo com Amzon CloudFront			     |1			    |	✅		  |
-|	 	|													                            |CURSO	                |Entendendo o que é o Amazon Elastic Load Balancer			             |1			    |	✅		  |
-|MO-5 |Banco de Dados na AWS  					                                        |	   	                |				                                                         |			    |	✅		  |
-|	 	|													                            |CURSO			        |Entendendo o que é RDS                                                  |1             |   ✅        |
-|	 	|													                            |CURSO			        |Introdução ao Amazon DynamoDB                                           |1           	|	✅        |
-|	 	|													                            |CURSO			        |Explorando Estratégias de Backup e Recuperação de Dados na AWS          |1	            |   ✅        |
-|MO-6 |	Serviços de Armazenamento e CDN  		                                        |	   	                |				                                                         |				|	✅		  |
-|	 	|													                            |CURSO			        |Introdução ao Amazon S3                                                 |1			    |   ✅        |
-|	 	|													                            |CURSO			        |Conhecendo o Amazon Glacier                                             |1		        |   ✅        |
-|       |									  			                                |CURSO			        |Entendendo a Distribuição de Conteúdo com Amazon CloudFront             |1             |   ✅        |
-|	 	|													                            |DESAFIO DE CÓDIGO	    |Associando Conceitos de Serviços de Armazenamento e CDN                 |1			    |   ✅        |
-|MO-7 |	Serviços Intermediários e Avançados  	                                        |	   	                |				                                                         |              |	✅		  |
-|	 	|													                            |CURSO			        |Entendendo como Funciona o AWS Lambda					                 |1	    	    |	✅		  |
-|	 	|													                            |CURSO		        	|Entendendo o que são Amazon ECS e EKS na Orquestração de Containers     |1			    |	✅		  |
-|	 	|												                            	|CURSO			        |Entendendo como Funcionam o Amazon SNS e SQS na Comunicação Assíncrona  |1			    |	✅		  |
-|	 	|												                            	|DESAFIO DE PROJETO	    |Explorando Workflowas Automatizados com AWS Step Functions              |1			    |	✅		  |
-|MO-8 |Gerenciamento e Governança na AWS  		                                        |	   	                |			                                                             |			    |	✅		  |
-|	 	|													                            |CURSO			        |Entendendo o que é o AWS CloudWatch                                     |1             |	✅		  |
-|	 	|												                                |CURSO			        |Fundamentos do AWS CloudTrail para Auditoria e Segurança na AWS		 |1			    |	✅		  |	
-|	 	|												                                |DESAFIO DE PROJETO		|Implementando sua Primeira Stack com AWS CloudFormation				 |1			    |	✅		  |
-|	 	|													                            |CURSO			        |Gerenciando Usuários e Permissões na AWS com Identity and Acess Mansgement (IAM)|1	    |	✅	      |
-|	 	|													                            |CURSO			        |Entendendo e Gerenciando Policies e Roles na AWS					     |1			    |	✅        |
-|MO-9 | Segurança na AWS  		                                                        |	   	                |			                                                             |				|	✅		  |
-|	 	|													                            |CURSO			        |Explorando Práticas Recomendadas de Segurança na Nuvem                  |1            	|	✅		  |
-|	 	|												                                |CURSO			        |Entendendo a Criptografia de Dados na AWS			                     |1			    |	✅		  |	
-|	 	|												                                |CURSO		        	|Protegendo Aplicações Web com AWS WAF					                 |1			    |	✅		  |
-|MO-10 | Desenvolvimento e Ferramenta  		                                            |	   	                |			                                                             |				|	✅		  |
-|	 	|													                            |CURSO			        |Explorando como Funcionam a AWS CLI e os SDKs                           |1            	|	✅		  |
-|	 	|												                                |DESAFIO DE PROJETO	    |Implementando Infraestrutura Automatizada com AWS CloudFormation		 |1			    |	✅		  |	
-|	 	|													                            |CURSO			        |Automatizando Implantação de Aplicações com AWS CodeDeploy			     |1			    |	✅        |
-|MO-11 | Automação e DevOps na AWS  		                                            |	   	                |			                                                             |				|	✅		  |
-|	 	|									 				                            |CURSO			        |Explorando Automatização de Tarefas na AWS                              |1            	|	✅		  |
-|	 	|												                                |DESAFIO DE PROJETO		|Executando Tarefas Automatizadas com Lambda Function e S3			     |2			    |	✅		  |	
-|	 	|												                                |CURSO		        	|Infraestrutura como Código na AWS com Terraform					     |1			    |	✅		  |
-|	 	|													                            |CURSO			        |Introdução ao DevOps	                                                 |1			    |	✅		  |
-|	 	|													                            |CURSO	                |Aplicando Conceitos de DevOps na AWS                                    |1			    |	✅		  |
-|	 	|													                            |CURSO			        |Explorando Ferramentas da AWS para DevOps					             |1			    |	✅        |
-|	 	|													                            |CURSO			        |Avalie este Bootcamp 2025					                             |1			    |   ✅        |
+|MO-1	|Fundamentos .NET	                                                            |	                    |			                                                             | 			    |             |
+|		|			 										                            |CURSO			        |Introdução ao .NET                                                      |2        	    |	✅		  |
+|		|			 										                            |CURSO			        |Introdução as IDEs e Configuração de Ambiente .NET                      |2	   	        |			  | 
+|		|													                            |CURSO			        |Sintaxe e Tipos de Dados em C#                                          |3	    		|		      |
+|		|													                            |CURSO			        |Tipos de Operadores em C#                                               |3			    |			  |
+|		|												                            	|CURSO	                |Operadores Aritméticos em C#                                            |2		        |			  |
+|		|													                            |CURSO		            |Conhecendo as Estruturas de Repetição em C#                             |2	    	    |			  |
+|		|			 										                            |CURSO			        |Conhecendo a Organização de um Programa C#                              |2        	    |			  |
+|		|			 										                            |CURSO			        |Array e Listas em C#                                                    |2	   	        |			  | 
+|		|													                            |CURSO			        |Comentários e Boas Práticas em C#                                       |1	    		|		      |
+|		|													                            |DESAFIO DE PROJETO	    |Construindo um Sistema para um Estacionamento com C#                    |2			    |			  |
+|		|												                            	|DESAFIO DE CÓDIGO	    |Desafios Básicos de C# - Formação .NET                                  |1		        |			  |
+|		|													                            |CURSO		            |Materiais Complementares: Fundamentos de .NET                           |1	    	    |			  |
+|MO-2 | Explorando a linguagem C#  			                                            |	   	                |				                                                         | 			    |             |
+|		|													                            |CURSO			        |Propriedades, Métodos e Construtores com C#                             |3	   		    |             |
+|		|											                                    |CURSO	                |Manipulando Valores com C#                                              |2	            |			  |
+|		|												                                |CURSO	                |Exceções e Coleções com C#  	                                         |2    		    |		      |
+|		|													                            |CURSO			        |Tuplas, Operador Ternário e Desconstrução de um Objeto com C#           |2	   		    |             |
+|		|											                                    |CURSO	                |Nuget, Serializar e Atributos no C#                                     |2	            |			  |
+|		|												                                |CURSO	                |Tipos Especiais no C#  	                                             |2    		    |		      |
+|		|													                            |CURSO			        |Stack, Heap e Garbage Collector no C#                                   |2	   		    |             |
+|		|											                                    |DESAFIO DE PROJETO	    |Construindo um Sistema de Hospedagem de um Hotel no C#                  |2	            |			  |
+|		|												                                |DESAFIO DE CÓDIGO	    |Desafios Intermediários C# I - Formação .NET  	                         |1    		    |   	      |
+|		|												                                |CURSO                  |Materiais complementares: Explorando a Linguagem C#  	                 |1    		    |		      |
+|MO-3 | Programação Orientada a Objetos com C#  				                        |	                    |				                                                         |			    |			  |
+| 	    |											  	                                |CURSO			        |Introdução, Abstração e Encapsulamento com C#                           |2	            |             |
+| 	    |												                                |CURSO			        |Herança e Polimorfismo com C#	   			                             |2			    |			  |
+| 	    |												                                |CURSO		        	|Classes Abstratas e Interfaces com C#	   	                             |3			    |			  |
+| 	    |											                               	    |DESAFIO DE PROJETO	    |Criando um Sistema e Abstraindo um Celular com POO em C#                |2             |			  |
+|    	|												                                |DESAFIO DE CÓDIGO	    |Desafios Intermediários C# II - Formação .NET                           |1	   		    |			  |
+|    	|												                                |CURSO	                |Materiais Complementares: Programação Orientada a Objetos .NET          |1	   		    |			  |
+|MO-4 |	Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB		    |				        | 						                                                 |			   	|             |
+|	 	|												                             	|CURSO			        |Introdução Banco de Dados				                                 |2    		    |             |
+|	 	|													                            |CURSO			        |SQL SERVER - Dominando Tabelas e Tipos de Dados			             |3			    |			  |
+|	 	|											                                    |CURSO	                |SQL SERVER - Manipulando Dados                                          |2	            |			  |
+|	 	|											                                    |CURSO	                |SQL SERVER - Constraints, Funções e Procedures                          |1	            |			  |
+|	 	|													                            |CURSO	                |MongoDB - Trabalhando com Bancos não relacionais			             |1			    |			  |
+|	 	|													                            |DESAFIO DE PROJETO	    |Montando Consultas Relacionais no SQL Server			                 |2			    |			  |
+|	 	|													                            |CURSO	                |Materiais Complementares: Banco de Dados .NET			                 |1			    |			  |
+|MO-5 |Integrando APIs NET C# com Entity Framework 					                    |	   	                |				                                                         |			    |			  |
+|	 	|													                            |CURSO			        |Introdução as APIs com C#                                               |3             |             |
+|	 	|													                            |CURSO			        |Trabalhando com Entity Framework com C#                                 |3           	|	          |
+|	 	|													                            |CURSO			        |Frontend com ASP.NET MVC                                                |4	            |             |
+|	 	|													                            |DESAFIO DE PROJETO     |Construindo um Sistema de Agendamento de Tarefas com Entity Framework   |1           	|	          |
+|	 	|													                            |CURSO			        |Materiais Complementares: API e Entity Framework                        |1	            |             |
+|MO-6 |	Nuvem com Microsoft Azure  		                                                |	   	                |				                                                         |				|			  |
+|	 	|													                            |CURSO			        |Introdução a nuvem com Azure                                            |3			    |             |
+|	 	|													                            |CURSO			        |Introdução a Deploy e Azure Functions                                   |3		        |             |
+|       |									  			                                |CURSO			        |Armazenamento de dados na Azure                                         |3             |             |
+|	 	|													                            |DESAFIO DE CÓDIGO	    |Construindo um Sistema de Cadastro de Funcionários e Hospedando na Nuvem Azure |2			    |     |
+|       |									  			                                |CURSO			        |Materiais Complementares: Nuvem com Microsoft Azure                     |1             |             |
+|MO-7 |	Testes Unitários com C#  	                                                    |	   	                |				                                                         |              |			  |
+|	 	|													                            |CURSO			        |Testes Unitários com C#					                             |3	    	    |			  |
+|	 	|													                            |DESAFIO DE PROJETO		|Implementando Validações de Testes Unitários com C#                     |1			    |			  |
+|	 	|												                            	|DESAFIO DE CÓDIGO	    |Desafios Avançados C# - Formação .NET                                   |1			    |			  |
+|	 	|												                            	|CURSO	                |Materiais Complementares: Testes Unitários com C#                       |1			    |			  |
+|	 	|													                            |CURSO			        |Avalie a Formação de .NET Developer				                     |1	    	    |			  |
 
